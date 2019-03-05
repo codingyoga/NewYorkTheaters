@@ -1,2 +1,3 @@
 # NewYorkTheaters
-Getting theaters, movies and showtime data 20 requests/second using Trio and Asks python package.
+Pulls theaters, movies and showtime data using Trio and Asks python package.
+The code is implemented for 20requests/second using rate limit.
